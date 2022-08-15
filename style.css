@@ -428,6 +428,19 @@ header{
     .cardinfo{
         margin-top: 20px;
     }
+
+    .conhecimentos-img-wrapper {
+        grid-column: 7 / 11;
+        grid-row: 2 / 6;
+        width: 20%;
+        height: 20%;
+      }
+      .conhecimentos-img-wrapper img {
+        object-fit: cover;
+        height: 70%;
+      }
     
+
+      
 
 }
